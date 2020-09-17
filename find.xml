@@ -14,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.txt</mask>
-    <mask>*.json</mask>
     <mask>*.cmake</mask>
+    <mask>*.json</mask>
     <mask>*.cpp,*.h</mask>
   </component>
 </application>
