@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cpp,*.h,*.hpp" />
+    <option name="FILE_MASK" value="*.cpp,*.h" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +16,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.txt</mask>
-    <mask>*.cpp,*.h</mask>
-    <mask>*.json</mask>
     <mask>*.cmake</mask>
     <mask>*.cpp,*.h,*.hpp</mask>
+    <mask>*.json</mask>
+    <mask>*.cpp,*.h</mask>
   </component>
 </application>
