@@ -3,7 +3,7 @@
     <property name="created">2018-12-31T12:43:54</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2020-11-05T10:53:39</property>
+    <property name="modified">2020-11-05T11:00:43</property>
     <property name="originalScheme">DK Monokai copy</property>
   </metaInfo>
   <colors>
@@ -740,8 +740,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
-        <option name="BACKGROUND" value="e3ec00" />
+        <option name="BACKGROUND" value="155221" />
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
       </value>
     </option>
     <option name="SPY-JS.EXCEPTION">
@@ -817,8 +817,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
-        <option name="BACKGROUND" value="e3ec00" />
+        <option name="BACKGROUND" value="532b2e" />
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="61936f" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -866,8 +867,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
-        <option name="BACKGROUND" value="e3ec00" />
+        <option name="BACKGROUND" value="532b2e" />
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
