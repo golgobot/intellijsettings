@@ -4,7 +4,7 @@
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
       <toolchain name="Clang" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/usr/local/opt/llvm/bin/clang" customCXXCompilerPath="/usr/local/opt/llvm/bin/clang++" debuggerKind="BUNDLED_LLDB" />
       <toolchain name="llvm-9.0.0" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/usr/local/Cellar/llvm/9.0.0/bin/clang" customCXXCompilerPath="/usr/local/Cellar/llvm/9.0.0/bin/clang++" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="Android" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="$USER_HOME$/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake" customMakePath="$USER_HOME$/Library/Android/sdk/ndk-bundle/prebuilt/darwin-x86_64/bin/make" customCCompilerPath="$USER_HOME$/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang" customCXXCompilerPath="$USER_HOME$/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Android" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="$USER_HOME$/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake" customMakePath="$USER_HOME$/Library/Android/sdk//ndk/21.3.6528147/prebuilt/darwin-x86_64/bin/make" customCCompilerPath="$USER_HOME$/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang" customCXXCompilerPath="$USER_HOME$/Library/Android/sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
 </application>
