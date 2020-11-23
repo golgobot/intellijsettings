@@ -3,7 +3,7 @@
     <property name="created">2018-12-31T12:43:54</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2020-11-05T11:00:43</property>
+    <property name="modified">2020-11-23T13:23:16</property>
     <property name="originalScheme">DK Monokai copy</property>
   </metaInfo>
   <colors>
@@ -685,6 +685,11 @@
     <option name="OC.DIRECTIVE">
       <value>
         <option name="FOREGROUND" value="f92764" />
+      </value>
+    </option>
+    <option name="OC.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f92772" />
       </value>
     </option>
     <option name="OC.MACRONAME">
