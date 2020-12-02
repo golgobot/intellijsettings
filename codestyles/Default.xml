@@ -8,6 +8,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ObjectiveC">
+    <option name="RIGHT_MARGIN" value="100" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
