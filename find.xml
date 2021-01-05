@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.cpp,*.h" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,8 +15,8 @@
     <mask>*.mxml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.cpp,*.h</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.cpp,*.h</mask>
   </component>
 </application>
