@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.cmake" />
+    <option name="FILE_MASK" value="*.cpp,*.h" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +17,7 @@
     <mask>*.hpp</mask>
     <mask>*.json</mask>
     <mask>*.txt</mask>
-    <mask>*.cpp,*.h</mask>
     <mask>*.cmake</mask>
+    <mask>*.cpp,*.h</mask>
   </component>
 </application>
