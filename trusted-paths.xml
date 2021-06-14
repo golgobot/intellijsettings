@@ -1,0 +1,9 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="/Volumes/workplace/APL/src/APLCoreEngine/extensions/tools/generator" />
+      </list>
+    </option>
+  </component>
+</application>
