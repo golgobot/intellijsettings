@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="/Volumes/workplace/APL/src/APLCoreEngine/extensions/tools/generator" />
+        <option value="/Volumes/workplace/Choreos/src/ExtensionsGenerator" />
       </list>
     </option>
   </component>
