@@ -1,13 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;.vscode;CVS;__pycache__;_svn;build;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;.vscode;CVS;__pycache__;_svn;build;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="aidl" type="PLAIN_TEXT" />
       <mapping ext="fbs" type="PLAIN_TEXT" />
       <mapping ext="qml" type="PLAIN_TEXT" />
       <mapping ext="profraw" type="PLAIN_TEXT" />
+      <removed_mapping ext="aidl" approved="true" type="AIDL" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
