@@ -34,6 +34,9 @@
       <mapping ext="awb" type="Binary File" />
       <mapping ext="pbz" type="Binary File" />
       <mapping ext="louds" type="Binary File" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="DESCRIPTION" type="PLAIN_TEXT" />
@@ -56,10 +59,8 @@
       <removed_mapping ext="aidl" approved="true" type="AIDL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="blueprint" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dex" approved="true" type="DEX" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
