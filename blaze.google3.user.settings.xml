@@ -1,0 +1,6 @@
+<application>
+  <component name="BlazeGoogle3UserSettings">
+    <option name="rabbitOptionForSync" value="DECIDE_AUTOMATICALLY" />
+    <option name="autoRunSuggestedFixesExplicitlySet" value="true" />
+  </component>
+</application>
