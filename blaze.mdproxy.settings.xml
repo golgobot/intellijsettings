@@ -1,0 +1,6 @@
+<application>
+  <component name="MdproxyUserSettings">
+    <option name="enabled" value="true" />
+    <option name="remoteMachineAddress" value="jonaross.c.googlers.com" />
+  </component>
+</application>
