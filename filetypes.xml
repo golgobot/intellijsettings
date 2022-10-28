@@ -34,9 +34,6 @@
       <mapping ext="awb" type="Binary File" />
       <mapping ext="pbz" type="Binary File" />
       <mapping ext="louds" type="Binary File" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="DESCRIPTION" type="PLAIN_TEXT" />
@@ -52,6 +49,7 @@
       <mapping ext="qml" type="PLAIN_TEXT" />
       <mapping ext="profraw" type="PLAIN_TEXT" />
       <mapping ext="golden" type="PLAIN_TEXT" />
+      <mapping ext="pi" type="Python" />
       <mapping pattern="METADATA" type="prototext" />
       <mapping ext="metadata" type="prototext" />
       <mapping ext="workflow" type="prototext" />
@@ -61,6 +59,9 @@
       <removed_mapping ext="blueprint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dex" approved="true" type="DEX" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
