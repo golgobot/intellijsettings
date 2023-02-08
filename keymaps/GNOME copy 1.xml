@@ -1,0 +1,10 @@
+<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+</keymap>
